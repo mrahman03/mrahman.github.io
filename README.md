@@ -1,5 +1,5 @@
 # Travel Demand Modeler
-## Transport Planning, Travel Demand Modeling, Land Use Modeling, Econometric Analysis, Data Analytics
+### Transport Planning, Travel Demand Modeling, Land Use Modeling, Econometric Analysis, Data Analytics
 # Education
 - Ph.D., INES, The University of North Carolina at Charlotte (August 2022)
 - M.Sc., Urban Planning, The University of Hong Kong (July 2013)
